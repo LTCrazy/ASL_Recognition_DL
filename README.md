@@ -7,5 +7,8 @@ https://docs.google.com/spreadsheets/d/1OT2M6hYhEsatJoR_zCuOX4AVuwFcGv1d-fJU7Bo0
 2. Available pre-trained popular model on Pytorch:   
 https://pytorch.org/docs/stable/torchvision/models.html
 
+3. Dataset source:
+https://www.kaggle.com/grassknoted/asl-alphabet/data#C_test.jpg
+
 ## notes
 Create your own branch and put stuff other there. Only data and finalized files go into the master branch (default).
