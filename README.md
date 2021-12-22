@@ -1,6 +1,6 @@
 # ASL_Recognition_DL
 
-Nowadays, American Sign Language (ASL) is used pre-dominantly in the United States and in many parts of Canada by deaf communities. Even though ASL facilitates the communication among deaf people, the communication between deaf community and normal people is still limited by rare usage of ASL among ordinary people. By figuring out algorithms that performs computer version ASL recognition, we hope that ASL of deaf community can be directly translated to English letters or classes for SPACE, DELETE and NOTHING. With ResNet18, Inception v-3, and Autoencoder, three different models, we developed high accuracy algorithm to translate American Sign Language from pictures to letters.
+Nowadays, American Sign Language (ASL) is used pre-dominantly in the United States and in many parts of Canada by deaf communities. Even though ASL facilitates the communication among deaf people, the communication between deaf community and normal people is still limited by rare usage of ASL among ordinary people. By figuring out algorithms that performs computer version ASL recognition, we hope that ASL of deaf community can be directly translated to English letters or classes for SPACE, DELETE and NOTHING. With ResNet18, Inception v-3, and Autoencoder, three different models, we developed high accuracy (85-99%) algorithm to translate American Sign Language from pictures to letters.
 
 ## Code
 
