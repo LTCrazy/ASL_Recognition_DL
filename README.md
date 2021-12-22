@@ -1,14 +1,12 @@
 # ASL_Recognition_DL
 
-## resources
-1. Here are some good candidate models that we can try. Please put your name after the ones you're exploring. More model/architectures welcomed!  
-https://docs.google.com/spreadsheets/d/1OT2M6hYhEsatJoR_zCuOX4AVuwFcGv1d-fJU7Bo0gKs/edit?usp=sharing 
+Nowadays, American Sign Language (ASL) is used pre-dominantly in the United States and in many parts of Canada by deaf communities. Even though ASL facilitates the communication among deaf people, the communication between deaf community and normal people is still limited by rare usage of ASL among ordinary people. By figuring out algorithms that performs computer version ASL recognition, we hope that ASL of deaf community can be directly translated to English letters or classes for SPACE, DELETE and NOTHING. With ResNet18, Inception v-3, and Autoencoder, three different models, we developed high accuracy algorithm to translate American Sign Language from pictures to letters.
 
-2. Available pre-trained popular model on Pytorch:   
-https://pytorch.org/docs/stable/torchvision/models.html
+## Code
 
-3. Dataset source:
-https://www.kaggle.com/grassknoted/asl-alphabet/data#C_test.jpg
+1. ResNet - `Data cleaning + ResNet.ipynb`
+2. AutoEncoder - `Autoencoder.ipynb`
 
-## notes
-Create your own branch and put stuff other there. Only data and finalized files go into the master branch (default).
+## Report
+
+A comprehensive report can be found in `Report_ASL_classification.pdf`
